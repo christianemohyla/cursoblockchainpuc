@@ -1,2 +1,3 @@
 # cursoblockchainpuc
-smart contracta 
+smart contracts 
+meu primeiro repositorio
